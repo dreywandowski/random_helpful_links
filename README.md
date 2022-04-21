@@ -74,6 +74,16 @@ I will try as much as possible to group them by categories for easy search and r
 ```
 
 </details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
  
  
 
