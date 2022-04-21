@@ -14,7 +14,7 @@ I will try as much as possible to group them by categories for easy search and r
 
 <details>
   <summary><h4>HTML/CSS</h4></summary>
-  
+    ## Heading
   1. <i><a href="https://sweetalert2.github.io/"> Make awesome alerts for Web projects</a></i>
       
 </details>
