@@ -51,17 +51,6 @@ I will try as much as possible to group them by categories for easy search and r
   
    </ol>   
 </details>
-
-<details>
-  <summary><h4>GIT</h4></summary>
-  <ol>
-  <li><i><a href="https://stackoverflow.com/questions/2643502/git-how-to-solve-permission-denied-publickey-error-when-using-git"> How to solve Permission denied (publickey) error when using Git?</a></i></li>
-    <li><i><a href="https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase"> How to Deploy Laravel Project with Apache on Ubuntu</a></i></li>
-     <li><i><a href="https://stackoverflow.com/questions/161813/how-do-i-resolve-merge-conflicts-in-a-git-repository"> How do I resolve merge conflicts in a Git repository?</a></i><br>
-     
-    
-   </ol>   
-</details>
 <details>
   <summary><h4>Laravel</h4></summary>
   <ol>
@@ -142,7 +131,6 @@ I will try as much as possible to group them by categories for easy search and r
 
 </ol>
 </details>
-
 
  
  
