@@ -17,7 +17,7 @@ I will try as much as possible to group them by categories for easy search and r
   <ol>
   <li>
   <i><a href="https://sweetalert2.github.io/"> Make awesome alerts for Web projects</a></i></li>
-  <i><a href=" https://www.w3schools.com/TAGS/att_input_pattern.asp"> Check for Regular Expressions using HTML</a></i></li>
+ <li> <i><a href="https://www.w3schools.com/TAGS/att_input_pattern.asp"> Check for Regular Expressions using HTML</a></i></li>
     
   </ol>
       
