@@ -14,14 +14,19 @@ I will try as much as possible to group them by categories for easy search and r
 
 <details>
   <summary><h4>HTML/CSS</h4></summary>
-  
-  1. <i><a href="https://sweetalert2.github.io/"> Make awesome alerts for Web projects</a></i>
+  <ol>
+  <li>
+  <i><a href="https://sweetalert2.github.io/"> Make awesome alerts for Web projects</a></i></li>
+  <i><a href=" https://www.w3schools.com/TAGS/att_input_pattern.asp"> Check for Regular Expressions using HTML</a></i></li>
+    
+  </ol>
       
 </details>
 <details>
   <summary><h4>Javascript</h4></summary>
-  
-  1. Regex to Validate Nigerian Phone Numbers.
+  <ol><li>
+   Regex to Validate Nigerian Phone Numbers.
+   
 ````
    var regex2    = /234\d{11}$/; //For Phone Numbers in International Format (234xxxxxxxxxx)
      var gsm       = '23436377723000';
@@ -35,6 +40,8 @@ I will try as much as possible to group them by categories for easy search and r
        console.log('coollllll, working' + verify );
        }  
 ````
+</li>
+</ol>
 </details>
 <details>
   <summary><h4>PHP</h4></summary>
