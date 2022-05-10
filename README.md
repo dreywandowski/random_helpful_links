@@ -48,7 +48,7 @@ I will try as much as possible to group them by categories for easy search and r
   <ol>
   <li><i><a href="https://twitter.com/dreywandowski/status/1346514361725186049/"> Autoload</a></i></li>
     <li><i><a href="https://twitter.com/dreywandowski/status/1346514361725186049/"> How to Deploy Laravel Project with Apache on Ubuntu</a></i></li>
-    <li><i><a href="https://stackoverflow.com/questions/39084230/encoding-password-field-for-http-basic-auth"></a>Encoding password field for HTTP Basic Auth </i></li>
+    <li><i><a href="https://stackoverflow.com/questions/39084230/encoding-password-field-for-http-basic-auth">Encoding password field for HTTP Basic Auth </a></i></li>
     <li><i><a href="https://stackoverflow.com/questions/2418771/remove-encoding-using-php">Remove URL encoding using PHP</a> </i></li>
      <li><i><a href="https://stackoverflow.com/questions/67576998/has-been-blocked-by-cors-policy-no-access-control-allow-origin/"> Fix CORS errors from PHP API</a></i><br>
      
