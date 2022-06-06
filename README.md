@@ -50,13 +50,21 @@ I will try as much as possible to group them by categories for easy search and r
     <li><i><a href="https://twitter.com/dreywandowski/status/1346514361725186049/"> How to Deploy Laravel Project with Apache on Ubuntu</a></i></li>
     <li><i><a href="https://stackoverflow.com/questions/39084230/encoding-password-field-for-http-basic-auth">Encoding password field for HTTP Basic Auth </a></i></li>
     <li><i><a href="https://stackoverflow.com/questions/2418771/remove-encoding-using-php">Remove URL encoding using PHP</a> </i></li>
-     <li><i><a href="https://stackoverflow.com/questions/67576998/has-been-blocked-by-cors-policy-no-access-control-allow-origin/"> Fix CORS errors from PHP API</a></i><br>
+    <li><i><a href="https://stackoverflow.com/questions/7651263/subtract-1-day-with-php">Subtract one day in PHP, human readable format also</a> </i></li>
+    <li><i>Convert day to Human readable format.</i>
      
+  ````
+    $today = date('Y-m-d');
+    $today = date("jS F, Y", strtotime($today));
+  ````
+  <li><i><a href="https://stackoverflow.com/questions/67576998/has-been-blocked-by-cors-policy-no-access-control-allow-origin/"> Fix CORS errors from PHP API</a></i><br></li>
+  
        header("Access-Control-Allow-Origin: *");
        header("Content-Type: application/json; charset=UTF-8");
        header("Access-Control-Allow-Methods: POST, GET");
        header("Access-Control-Max-Age: 3600");
        header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
+       
   
    </ol>   
 </details>
@@ -91,6 +99,8 @@ I will try as much as possible to group them by categories for easy search and r
   chmod -R 775 storage 
   ``````
   </li>
+  <li><i><a href="https://www.itsolutionstuff.com/post/laravel-8-cron-job-task-scheduling-tutorialexample.html">Configure cron on laravel server</a></i></li>
+  <li><i><a href="https://www.scratchcode.io/laravel-run-specific-migration/#:~:text=%20Laravel%20Run%20Specific%20Migration%20%201%20Laravel,our%20end.%20We%20hope%20this%20article...%20More%20">Run a specific migration in Laravel</a> </i></li>
   
 
   
@@ -108,6 +118,10 @@ I will try as much as possible to group them by categories for easy search and r
          <li><i><a href="https://blog.quickadminpanel.com/laravel-public-folder-how-to-configure-domains-for-in-apachenginx/"> Laravel /public Folder: How to Configure Domains for in Apache/Nginx</a></i></li>
           <li><i><a href="https://www.edureka.co/community/81090/chmod-changing-permissions-of-root-operation-not-permitted/"> Linux: chmod changing permissions of root Operation not permitted/ how to switch users</a></i></li>
            <li><i><a href="https://askubuntu.com/questions/629995/apache-not-able-to-restart/"> Apache not able to restart</a></i></li>
+           <li><i><a href="https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804">Configure a cronjob on Ubuntu server</a> </i></li>
+           <li><i><a href="https://stackoverflow.com/questions/10193788/restarting-cron-after-changing-crontab-file">Restart Apache after installing cronjob</a> </i></li>
+           <li><i><a href="https://stackoverflow.com/questions/7397469/why-is-crontab-not-executing-my-php-script">Cron job not running? </a> </i></li>
+           <li><i><a href="https://stackoverflow.com/questions/22413408/install-dependency-doctrine-dbal-on-composer-laravel">Install Doctrine/dbal package to allow us modify tables in Laravel</a> </i></li>
                                           
 </ol>      
 </details>
